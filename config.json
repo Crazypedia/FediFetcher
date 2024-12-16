@@ -1,0 +1,10 @@
+{
+  "server": "pagan.plus",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1,
+  "MAX_FOLLOW_REQUESTS": 80,
+  "MAX_FOLLOWERS": 80,
+  "MAX_FAVORITES": 30
+
+}
